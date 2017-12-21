@@ -39,16 +39,19 @@ public class Swords {
 
 	public static SwordBasic theFirst;
 	public static SwordBasic theExcalibur;
+	public static SwordBasic theEnderSword;
 
 
 	public static ToolMaterial advancedEmerald;
 	public static ToolMaterial advancedDiamond;
+	public static ToolMaterial advancedEnder;
 
 	
 
 	private static void setupMaterials() {
 		// regular materials
 		(advancedEmerald = EnumHelper.addToolMaterial("advancedEmerald", 4, 500, 12.0F, 10.0f, 22)).setRepairItem(new ItemStack(Blocks.EMERALD_BLOCK));
+		(advancedEnder = EnumHelper.addToolMaterial("advancedEnder", 1, 10, 1.0F, 20.0f, 3)).setRepairItem(new ItemStack(Blocks.END_STONE));
 		(advancedDiamond = EnumHelper.addToolMaterial("advancedDiamond", 4, 10000, 50.0F, 50.0F, 5)).setRepairItem(new ItemStack(Blocks.DIAMOND_BLOCK));
 
 		
@@ -67,7 +70,9 @@ public class Swords {
 		swords.join(
 
     		theFirst = (SwordBasic)new SwordBasic(advancedEmerald).setRegistryName("the_first"),
-			theExcalibur = (SwordBasic)new SwordBasic(advancedDiamond).setRegistryName("the_excalibur")
+			theExcalibur = (SwordBasic)new SwordBasic(advancedDiamond).setRegistryName("the_excalibur"),
+				theEnderSword = (SwordBasic) new SwordBasic(advancedEmerald).setRegistryName("the_ender_sword")
+
 
 	);
 	}
