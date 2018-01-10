@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MoreWeaponsCraft.iml" filepath="$PROJECT_DIR$/.idea/modules/MoreWeaponsCraft.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MoreWeaponsCraft_api.iml" filepath="$PROJECT_DIR$/.idea/modules/MoreWeaponsCraft_api.iml" group="MoreWeaponsCraft" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MoreWeaponsCraft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MoreWeaponsCraft_main.iml" group="MoreWeaponsCraft" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MoreWeaponsCraft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MoreWeaponsCraft_test.iml" group="MoreWeaponsCraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moreweaponscraft.iml" filepath="$PROJECT_DIR$/.idea/modules/moreweaponscraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moreweaponscraft_api.iml" filepath="$PROJECT_DIR$/.idea/modules/moreweaponscraft_api.iml" group="moreweaponscraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moreweaponscraft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/moreweaponscraft_main.iml" group="moreweaponscraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moreweaponscraft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/moreweaponscraft_test.iml" group="moreweaponscraft" />
     </modules>
   </component>
 </project>

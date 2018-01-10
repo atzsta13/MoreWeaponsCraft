@@ -34,8 +34,7 @@ public class MoreWeaponsCraft {
 		proxy.postInit(event);
 
 
-	//	ClientCommandHandler.instance.executeCommand(FMLClientHandler.instance().getClientPlayerEntity(), "/say es funktioniert");
-
+	//	ClientCommandHandler.instance.executeCommand(FMLClientHandler.instance().getClientPlayerEntity(), "/say es funktioniert")...
 	}
 
 }
