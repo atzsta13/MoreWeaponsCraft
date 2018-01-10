@@ -33,7 +33,7 @@ public class MoreWeaponsCraft {
 	public void postInit(FMLPostInitializationEvent event) {
 		proxy.postInit(event);
 
-
+    //kjjkjklj
 	//	ClientCommandHandler.instance.executeCommand(FMLClientHandler.instance().getClientPlayerEntity(), "/say es funktioniert")...
 	}
 
