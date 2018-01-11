@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="AdvancedCombat123_api" target="1.8" />
+      <module name="AdvancedCombat123_main" target="1.8" />
+      <module name="AdvancedCombat123_test" target="1.8" />
+      <module name="MoreWeaponsCraft222_api" target="1.8" />
+      <module name="MoreWeaponsCraft222_main" target="1.8" />
+      <module name="MoreWeaponsCraft222_test" target="1.8" />
+      <module name="MoreWeaponsCraft_api" target="1.8" />
+      <module name="MoreWeaponsCraft_main" target="1.8" />
+      <module name="MoreWeaponsCraft_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

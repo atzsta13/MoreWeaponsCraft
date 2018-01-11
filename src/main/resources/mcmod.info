@@ -1,13 +1,13 @@
 [
 {
-  "modid": "advancedcombat",
-  "name": "Advanced Combat",
-  "description": "This mod provides extremely powerful swords along with more flexible item enchanting.",
+  "modid": "moreweaponscraft",
+  "name": "More Weapons Craft",
+  "description": "Project",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["sblectric"],
+  "authorList": [""],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
